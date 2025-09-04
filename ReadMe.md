@@ -12,7 +12,7 @@
 cd backend
 cp .env.example .env   # edit MONGO_URI if needed (Atlas recommended)
 npm install
-npm run dev
+npm run dev 
 ```
 Backend runs on http://localhost:5000
 
