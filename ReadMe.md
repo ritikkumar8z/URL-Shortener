@@ -9,7 +9,7 @@
 
 ### 1) Backend
 ```bash
-cd backend
+cd backend 
 cp .env.example .env   # edit MONGO_URI if needed (Atlas recommended)
 npm install
 npm run dev 
